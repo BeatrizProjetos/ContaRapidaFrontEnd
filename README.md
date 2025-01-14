@@ -7,7 +7,11 @@ Frontend 🌐
 Desenvolvido com HTML, CSS e JavaScript, conta com uma interface amigável e intuitiva, incluindo:
 
 📝 Campo para inserir o nome do cliente.
+
 💲 Campo para definir o preço por quilo.
+
 ⚖️ Campo para informar o consumo em gramas.
+
 🔘 Botão para calcular o preço.
+
 📊 Exibição clara e objetiva do valor final.
